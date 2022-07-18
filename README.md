@@ -62,18 +62,18 @@ Baker: for making Mark V, the best and most badass Quake source port out there.
 ## Screenshots
 The following screenshots show a comparison between ChadQuake and QuakeSpasm, another (great) source port.
 
-![](.github/chad1.png)
-![](.github/qs1.png)
-![](.github/chad2.png)
-![](.github/qs2.png)
-![](.github/chad3.png)
-![](.github/qs3.png)
-![](.github/chad4.png)
-![](.github/qs4.png)
-![](.github/chad5.png)
-![](.github/qs5.png)
-![](.github/chad6.png)
-![](.github/qs6.png)
+![](screenshots/chad1.png)
+![](screenshots/qs1.png)
+![](screenshots/chad2.png)
+![](screenshots/qs2.png)
+![](screenshots/chad3.png)
+![](screenshots/qs3.png)
+![](screenshots/chad4.png)
+![](screenshots/qs4.png)
+![](screenshots/chad5.png)
+![](screenshots/qs5.png)
+![](screenshots/chad6.png)
+![](screenshots/qs6.png)
 
 ## License
 Copyright (C) 2018-2022 Federico Dossena
